@@ -1,0 +1,14 @@
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\bin\Debug\net10.0\Ejemplo1.exe
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\bin\Debug\net10.0\Ejemplo1.deps.json
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\bin\Debug\net10.0\Ejemplo1.runtimeconfig.json
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\bin\Debug\net10.0\Ejemplo1.dll
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\bin\Debug\net10.0\Ejemplo1.pdb
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\Ejemplo1.AssemblyInfo.cs
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\Ejemplo1.dll
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\refint\Ejemplo1.dll
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\Ejemplo1.pdb
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\Ejemplo1.genruntimeconfig.cache
+C:\Users\HERNAN\Downloads\EjempplosCursos\Ejemplo1\obj\Debug\net10.0\ref\Ejemplo1.dll
